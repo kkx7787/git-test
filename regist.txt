@@ -1,1 +1,1 @@
-Implement regist
+Implement register
