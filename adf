@@ -1,0 +1,199 @@
+[33mcommit 37e864ee19855bf2ae750ce2cfedb246eb974e3d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 10:01:01 2024 +0900
+
+    d
+
+[33mcommit d9396678bad7260ba07232dcc3bb8471344379fd[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 10:00:37 2024 +0900
+
+    c
+
+[33mcommit c24b8a26a11ad12d69dfaafbce0db53ad460b9b9[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 10:00:08 2024 +0900
+
+    B1 completed
+
+[33mcommit 81de7da592117f634ae035b2db0047f348fe3133[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 09:59:51 2024 +0900
+
+    a
+
+[33mcommit 55c8f32c06711514ce7391b624eaac60e0d5cba6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 09:36:05 2024 +0900
+
+    Revert "test commit"
+    
+    This reverts commit de7c7edd28f857b5068cbc1b6e8a4935ccec2e53.
+    
+    Revert "test commit"
+
+[33mcommit de7c7edd28f857b5068cbc1b6e8a4935ccec2e53[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 09:34:11 2024 +0900
+
+    test commit
+
+[33mcommit bd3f062aec3a29cf2567c5ccd2fb65e5e141b349[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 09:19:13 2024 +0900
+
+    Revert "D"
+    
+    This reverts commit bb59046b6af3ca3f73a7d41fc079aa8fd97196d0.
+    
+    Revert D Commit
+
+[33mcommit bb59046b6af3ca3f73a7d41fc079aa8fd97196d0[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 09:18:48 2024 +0900
+
+    D
+
+[33mcommit 29612a084303c549feace0782ed4a05fb09cb17d[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 09:18:34 2024 +0900
+
+    C
+
+[33mcommit f05c886b9b378375224c083cd1538bd2d371f70b[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 09:18:22 2024 +0900
+
+    B
+
+[33mcommit 140cefc62be59d24e99571112b918eba97d14bc9[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Tue Aug 13 09:17:57 2024 +0900
+
+    A
+
+[33mcommit 0a9aac73d83af4356ea9423b3965e6dea42b8102[m
+Merge: 79ae6fd 54aad43
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 16:59:37 2024 +0900
+
+    Merge branch 'master' of https://github.com/kkx7787/git-test
+    
+    # Conflicts:
+    #       ttt.txt
+
+[33mcommit 79ae6fdb68b3d67d4300f07065d01b0ea18d6576[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 16:38:51 2024 +0900
+
+    Revert "request1"
+    
+    This reverts commit 3174ff9004b6d2e2b24510c220f0315d6da2cc88.
+    
+    Revert this message
+
+[33mcommit 6e362d7a55d2416d0b20eb5c1669a49a80c8f329[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 16:37:42 2024 +0900
+
+    Revert "before revert"
+    
+    This reverts commit fe44fcae3a528a234d25140618be6f7f88ae57e6.
+    
+    Revert fix message
+
+[33mcommit fe44fcae3a528a234d25140618be6f7f88ae57e6[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 16:37:28 2024 +0900
+
+    before revert
+
+[33mcommit 54aad43631cbb23555eca9e2cf8f21f4e202ba86[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 15:33:55 2024 +0900
+
+    fix2
+    
+    Abort Commit
+
+[33mcommit 62fed56637a53e5aa973dee6c8e6ccec3abe60e9[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 15:33:32 2024 +0900
+
+    fix1
+
+[33mcommit bfa48bba96543b20e95a45f887bc588380bbe359[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 15:35:05 2024 +0900
+
+    request2
+
+[33mcommit 3174ff9004b6d2e2b24510c220f0315d6da2cc88[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 15:34:51 2024 +0900
+
+    request1
+
+[33mcommit 702c83e2bb549f107b4e8a828f901a08704a1054[m
+Merge: d85baa9 92abdec
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 15:29:26 2024 +0900
+
+    Merge branch 'master' of https://github.com/kkx7787/git-test
+
+[33mcommit 92abdec7fbf642d626c0f6dbd2a4b65932186a42[m
+Author: Han Seong Min <115688628+kkx7787@users.noreply.github.com>
+Date:   Wed Aug 7 15:29:05 2024 +0900
+
+    Update README.md
+
+[33mcommit d85baa9d391ddf6cb8cf2c63b4f5f26b5e098db6[m
+Merge: c9f82a2 82244de
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 15:28:02 2024 +0900
+
+    Merge branch 'master' of https://github.com/kkx7787/git-test
+    Hi
+
+[33mcommit 82244de80ee43021776fa9b796999ff6e2b4abc7[m
+Author: Han Seong Min <115688628+kkx7787@users.noreply.github.com>
+Date:   Wed Aug 7 15:25:19 2024 +0900
+
+    Create README.md
+
+[33mcommit c9f82a2fd457b6066fb011566e9d811b67b3c7af[m
+Merge: 6a9bd8a 3aabe56
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 15:15:53 2024 +0900
+
+    resolve conflict
+
+[33mcommit 3aabe56e96167a47f8032ad704902c9c22aba16c[m[33m ([m[1;32mbr22[m[33m)[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 15:07:51 2024 +0900
+
+    a
+
+[33mcommit 6a9bd8a3afc930173c45e4ad3312a08443fac608[m[33m ([m[1;32mbr11[m[33m)[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 15:07:10 2024 +0900
+
+    a
+
+[33mcommit 96c763156b08a5a62608ab75bee79729dbe23f66[m[33m ([m[1;31morigin/br11[m[33m, [m[1;32mbr33[m[33m)[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 13:39:21 2024 +0900
+
+    test commit
+
+[33mcommit 79379be04d79ada66e83092dd3bd7d26a70e0bae[m
+Author: seongmin <h016@alpacoedu.onmicrosoft.com>
+Date:   Wed Aug 7 13:31:32 2024 +0900
+
+    fix
+
+[33mcommit de65f9bffe3db313eea5eb111c8cfce14de3d31c[m[33m ([m[1;31morigin/br22[m[33m, [m[1;32mtest[m[33m)[m
+Author: kkx7787 <115688628+kkx7787@users.noreply.github.com>
+Date:   Wed Aug 7 09:24:28 2024 +0900
+
+    first commit message
